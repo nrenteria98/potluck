@@ -18,6 +18,10 @@ const getReturnedParamsFromSpotifyAuth = (hash) => {
 const parseItems = (items) => {
     const trackList = [];
     for (let item of items) {
+        if (!item.track) {
+            continue
+        };
+        
         let artistList = [];
         for ( let artist of item.track.artists) {
             artistList.push(artist.name);
