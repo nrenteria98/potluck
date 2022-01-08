@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/potluck/static/css/main.058bae01.chunk.css",
+    "main.css": "/potluck/static/css/main.8fdf6fd5.chunk.css",
     "main.js": "/potluck/static/js/main.1667c96d.chunk.js",
     "main.js.map": "/potluck/static/js/main.1667c96d.chunk.js.map",
     "runtime-main.js": "/potluck/static/js/runtime-main.4827007a.js",
@@ -12,14 +12,14 @@
     "static/js/3.8964b62f.chunk.js.map": "/potluck/static/js/3.8964b62f.chunk.js.map",
     "index.html": "/potluck/index.html",
     "static/css/2.a72f6afe.chunk.css.map": "/potluck/static/css/2.a72f6afe.chunk.css.map",
-    "static/css/main.058bae01.chunk.css.map": "/potluck/static/css/main.058bae01.chunk.css.map",
+    "static/css/main.8fdf6fd5.chunk.css.map": "/potluck/static/css/main.8fdf6fd5.chunk.css.map",
     "static/js/2.06128efd.chunk.js.LICENSE.txt": "/potluck/static/js/2.06128efd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4827007a.js",
     "static/css/2.a72f6afe.chunk.css",
     "static/js/2.06128efd.chunk.js",
-    "static/css/main.058bae01.chunk.css",
+    "static/css/main.8fdf6fd5.chunk.css",
     "static/js/main.1667c96d.chunk.js"
   ]
 }
