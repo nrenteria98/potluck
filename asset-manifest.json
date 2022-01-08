@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/nrenteria98/potluck.io/tree/main/potluck.io/static/css/main.cdfdf289.chunk.css",
-    "main.js": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/main.b9661699.chunk.js",
-    "main.js.map": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/main.b9661699.chunk.js.map",
-    "runtime-main.js": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/runtime-main.9ad2c0d9.js",
-    "runtime-main.js.map": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/runtime-main.9ad2c0d9.js.map",
-    "static/css/2.a72f6afe.chunk.css": "/nrenteria98/potluck.io/tree/main/potluck.io/static/css/2.a72f6afe.chunk.css",
-    "static/js/2.7bb257da.chunk.js": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/2.7bb257da.chunk.js",
-    "static/js/2.7bb257da.chunk.js.map": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/2.7bb257da.chunk.js.map",
-    "static/js/3.8964b62f.chunk.js": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/3.8964b62f.chunk.js",
-    "static/js/3.8964b62f.chunk.js.map": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/3.8964b62f.chunk.js.map",
-    "index.html": "/nrenteria98/potluck.io/tree/main/potluck.io/index.html",
-    "static/css/2.a72f6afe.chunk.css.map": "/nrenteria98/potluck.io/tree/main/potluck.io/static/css/2.a72f6afe.chunk.css.map",
-    "static/css/main.cdfdf289.chunk.css.map": "/nrenteria98/potluck.io/tree/main/potluck.io/static/css/main.cdfdf289.chunk.css.map",
-    "static/js/2.7bb257da.chunk.js.LICENSE.txt": "/nrenteria98/potluck.io/tree/main/potluck.io/static/js/2.7bb257da.chunk.js.LICENSE.txt"
+    "main.css": "/potluck/static/css/main.bf4533b2.chunk.css",
+    "main.js": "/potluck/static/js/main.b9661699.chunk.js",
+    "main.js.map": "/potluck/static/js/main.b9661699.chunk.js.map",
+    "runtime-main.js": "/potluck/static/js/runtime-main.4827007a.js",
+    "runtime-main.js.map": "/potluck/static/js/runtime-main.4827007a.js.map",
+    "static/css/2.a72f6afe.chunk.css": "/potluck/static/css/2.a72f6afe.chunk.css",
+    "static/js/2.06128efd.chunk.js": "/potluck/static/js/2.06128efd.chunk.js",
+    "static/js/2.06128efd.chunk.js.map": "/potluck/static/js/2.06128efd.chunk.js.map",
+    "static/js/3.8964b62f.chunk.js": "/potluck/static/js/3.8964b62f.chunk.js",
+    "static/js/3.8964b62f.chunk.js.map": "/potluck/static/js/3.8964b62f.chunk.js.map",
+    "index.html": "/potluck/index.html",
+    "static/css/2.a72f6afe.chunk.css.map": "/potluck/static/css/2.a72f6afe.chunk.css.map",
+    "static/css/main.bf4533b2.chunk.css.map": "/potluck/static/css/main.bf4533b2.chunk.css.map",
+    "static/js/2.06128efd.chunk.js.LICENSE.txt": "/potluck/static/js/2.06128efd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9ad2c0d9.js",
+    "static/js/runtime-main.4827007a.js",
     "static/css/2.a72f6afe.chunk.css",
-    "static/js/2.7bb257da.chunk.js",
-    "static/css/main.cdfdf289.chunk.css",
+    "static/js/2.06128efd.chunk.js",
+    "static/css/main.bf4533b2.chunk.css",
     "static/js/main.b9661699.chunk.js"
   ]
 }
