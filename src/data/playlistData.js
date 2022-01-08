@@ -1,5 +1,9 @@
 const playlistData = [
     {
+        name: "Musical Potluck 7: Gaslight Gatekeep Girlboss",
+        id: "28tVYCoZGeTD9EYcMzSsnR",
+    },
+    {
         name: "Musical Potluck 6: Musical Potluck: The Musical",
         id: "48nqhJrBNn8LDsy33IgPXG",
     },
