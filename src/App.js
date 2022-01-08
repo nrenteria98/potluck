@@ -10,8 +10,8 @@ function App() {
     <div className="Main">
       <Router basename='/potluck'>
         <Routes>
-          <Route path="/" element={<Home />} />
           <Route path="/search" element={<Search />} />
+          <Route path="/" element={<Home />} />
         </Routes>
       </Router>
       {/* Bubbles for background animation */}
