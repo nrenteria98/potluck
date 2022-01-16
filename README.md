@@ -28,3 +28,11 @@ This web application is a tool to search for songs that exist across all Musical
 ## Future Features
 - Music Room: using websockets, users can select songs from a playlist and simulateously listen to the same song.
 - Archive: make a backup dataset of all the songs in each playlist
+
+## Screenshots
+![Sign In](https://user-images.githubusercontent.com/93448396/149680895-4ad80d4e-f2c6-45e5-9c27-73d60b1032e8.png)
+![Start Search](https://user-images.githubusercontent.com/93448396/149680899-4d20a076-b27f-4b3b-8107-1baf9e3b62cf.png)
+![Gathering Data](https://user-images.githubusercontent.com/93448396/149680896-2b148e09-3cf6-4855-b4b0-f03d1f51fac2.png)
+![Search Bar](https://user-images.githubusercontent.com/93448396/149680900-23f5cec1-9a46-4a69-9c9b-7213eaae73da.png)
+![Search Results](https://user-images.githubusercontent.com/93448396/149680897-ef5b263f-70db-4e59-8e13-9af77782340e.png)
+
