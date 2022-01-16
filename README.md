@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+[Potluck Webpage](https://nrenteria98.github.io/potluck/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# The Lore
+In 2018, a group of college friends started a Spotify playlist called Musical Potluck. On Mondays, each of them would add 2 songs that they have been jamming to that week to the playlist. At the end of the semester, they got together and had a potluck dinner to discuss their top songs from each person. This potluck of a playlist was meant to expose their musical pallets to a range of different genres all while growing their companionship for each other. Four years later, the group is on their 7th Musical Potluck playlist.
 
-## Available Scripts
+# What is Potluck?
+There is one condition that must be met for these playlists. A song cannot be added to a playlist if it has already been added to a previous playlist. It is hard, however, to keep up with hundreds of songs and an inconvenience to go to each individual playlist to search for the existence of a song. Thats where this applicaiton comes in to solve this problem.
 
-In the project directory, you can run:
+This web application is a tool to search for songs that exist across all Musical Potluck playlists. With one simple query, the user can see what added songs have been added with those keywords. If the user searches for a song and receives no listed songs, then the song has not been added to any playlist.
 
-### `npm start`
+## Playlists Thus Far
+- [Musical Potluck](https://open.spotify.com/playlist/1WVnOBghWI1cWJbSdKPQFB)
+- [Musical Potluck 2: The Squeaquel](https://open.spotify.com/playlist/7J2fdxRz7TXJlxKTdT1HzT)
+- [Musical Potluck 3: The Search](https://open.spotify.com/playlist/2HirbOELhh8RCEt2YusWCN)
+- [Musical Potluck 4: What Now?](https://open.spotify.com/playlist/53tx1yiQp8J1dpv3AQLg6H)
+- [Musical Potluck 5: Drippin' In Twang](https://open.spotify.com/playlist/3UOwzMPZL2oHDMMhbcVsPP)
+- [Musical Potluck 6: Musical Potluck: The Musical](https://open.spotify.com/playlist/48nqhJrBNn8LDsy33IgPXG)
+- [Musical Potluck 7: Gaslight Gatekeep Girlboss](https://open.spotify.com/playlist/28tVYCoZGeTD9EYcMzSsnR)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+# The Technical Stuff
+## Technologies
+- React
+- Spotify Web API
+- TypeScript
+- Sass
+- Ant Design
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Future Features
+- Music Room: using websockets, users can select songs from a playlist and simulateously listen to the same song.
+- Archive: make a backup dataset of all the songs in each playlist
