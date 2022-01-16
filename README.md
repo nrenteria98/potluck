@@ -1,7 +1,7 @@
 [Potluck Webpage](https://nrenteria98.github.io/potluck/)
 
 # The Lore
-In 2018, a group of college friends started a Spotify playlist called Musical Potluck. On Mondays, each of them would add 2 songs that they have been jamming to that week to the playlist. At the end of the semester, they got together and had a potluck dinner to discuss their top songs from each person. This potluck of a playlist was meant to expose their musical pallets to a range of different genres all while growing their companionship for each other. Four years later, the group is on their 7th Musical Potluck playlist.
+In 2018, a group of college friends started a Spotify playlist called Musical Potluck. On Mondays, each of them would add 2 songs that they have been jamming to that week to the playlist. At the end of the semester, they got together and had a potluck dinner to discuss their top songs from each person. This potluck of a playlist was meant to expose their musical palates to a range of different genres all while growing their companionship for each other. Four years later, the group is on their 7th Musical Potluck playlist.
 
 # What is Potluck?
 There is one condition that must be met for these playlists. A song cannot be added to a playlist if it has already been added to a previous playlist. It is hard, however, to keep up with hundreds of songs and an inconvenience to go to each individual playlist to search for the existence of a song. Thats where this applicaiton comes in to solve this problem.
